@@ -18,6 +18,8 @@ Using PuLP, create a model that determines how much Lemonade and Fruit Juice sho
 
 Calculate the definite integral
 
+Task 2. Calculate the definite integral
+
 Your second task is to calculate the value of the integral of a function using the Monte Carlo method.
 
 Calculate the value of the integral of the function using the Monte Carlo method, in other words, find the area under this graph (gray area).
